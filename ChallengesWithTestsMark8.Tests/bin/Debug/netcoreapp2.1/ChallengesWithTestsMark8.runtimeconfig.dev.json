@@ -2,7 +2,8 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "/Users/aprilbullard/.dotnet/store/|arch|/|tfm|",
-      "/Users/aprilbullard/.nuget/packages"
+      "/Users/aprilbullard/.nuget/packages",
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ]
   }
 }

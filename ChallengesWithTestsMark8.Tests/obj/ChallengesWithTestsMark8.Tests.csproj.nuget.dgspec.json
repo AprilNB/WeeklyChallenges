@@ -13,6 +13,9 @@
         "packagesPath": "/Users/aprilbullard/.nuget/packages/",
         "outputPath": "/Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/aprilbullard/.config/NuGet/NuGet.Config"
         ],
@@ -71,7 +74,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -84,6 +87,9 @@
         "packagesPath": "/Users/aprilbullard/.nuget/packages/",
         "outputPath": "/Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/aprilbullard/.config/NuGet/NuGet.Config"
         ],
@@ -126,7 +132,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }
