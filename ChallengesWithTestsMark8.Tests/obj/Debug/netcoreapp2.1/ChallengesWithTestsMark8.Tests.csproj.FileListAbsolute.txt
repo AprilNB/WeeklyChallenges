@@ -96,7 +96,6 @@ C:/Users/Chip/source/repos/Mark8ChallengesWithTests/ChallengesWithTestsMark8.Tes
 /Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.pdb
 /Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.dll
 /Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.pdb
-/Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csprojAssemblyReference.cache
 /Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
 /Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
 /Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
@@ -104,3 +103,4 @@ C:/Users/Chip/source/repos/Mark8ChallengesWithTests/ChallengesWithTestsMark8.Tes
 /Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.dll
 /Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.pdb
 /Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
+/Users/aprilbullard/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
